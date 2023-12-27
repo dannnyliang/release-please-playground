@@ -5,3 +5,7 @@ function foo() {
 function foo2() {
   // Function body goes here
 }
+
+function foo3() {
+  // Function body goes here
+}
