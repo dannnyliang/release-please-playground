@@ -1,7 +1,5 @@
 function foo() {
   // Function body goes here
-  // comment 1
-  // comment 2
 }
 
 function foo2() {
