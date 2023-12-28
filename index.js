@@ -9,3 +9,7 @@ function foo2() {
 function foo3() {
   // Function body goes here
 }
+
+function foo4() {
+  // Function body goes here
+}
