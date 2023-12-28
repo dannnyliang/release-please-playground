@@ -1,5 +1,6 @@
 function foo() {
   // Function body goes here
+  // comment 1
 }
 
 function foo2() {
