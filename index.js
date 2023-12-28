@@ -7,6 +7,7 @@ function foo() {
 function foo2() {
   // Function body goes here
   // comment 1
+  // commentt 1
 }
 
 function foo3() {
